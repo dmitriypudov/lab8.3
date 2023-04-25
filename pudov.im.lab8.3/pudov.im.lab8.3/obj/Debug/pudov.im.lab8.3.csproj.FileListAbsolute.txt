@@ -1,0 +1,11 @@
+C:\Users\ЧЕЙСИЛА\source\repos\pudov.im.lab8.3\pudov.im.lab8.3\obj\Debug\pudov.im.lab8.3.csproj.AssemblyReference.cache
+C:\Users\ЧЕЙСИЛА\source\repos\pudov.im.lab8.3\pudov.im.lab8.3\obj\Debug\pudov.im.lab8.3.csproj.SuggestedBindingRedirects.cache
+C:\Users\ЧЕЙСИЛА\source\repos\pudov.im.lab8.3\pudov.im.lab8.3\obj\Debug\pudov.im.lab8._3.Form1.resources
+C:\Users\ЧЕЙСИЛА\source\repos\pudov.im.lab8.3\pudov.im.lab8.3\obj\Debug\pudov.im.lab8._3.Properties.Resources.resources
+C:\Users\ЧЕЙСИЛА\source\repos\pudov.im.lab8.3\pudov.im.lab8.3\obj\Debug\pudov.im.lab8.3.csproj.GenerateResource.cache
+C:\Users\ЧЕЙСИЛА\source\repos\pudov.im.lab8.3\pudov.im.lab8.3\obj\Debug\pudov.im.lab8.3.csproj.CoreCompileInputs.cache
+C:\Users\ЧЕЙСИЛА\source\repos\pudov.im.lab8.3\pudov.im.lab8.3\bin\Debug\pudov.im.lab8.3.exe.config
+C:\Users\ЧЕЙСИЛА\source\repos\pudov.im.lab8.3\pudov.im.lab8.3\bin\Debug\pudov.im.lab8.3.exe
+C:\Users\ЧЕЙСИЛА\source\repos\pudov.im.lab8.3\pudov.im.lab8.3\bin\Debug\pudov.im.lab8.3.pdb
+C:\Users\ЧЕЙСИЛА\source\repos\pudov.im.lab8.3\pudov.im.lab8.3\obj\Debug\pudov.im.lab8.3.exe
+C:\Users\ЧЕЙСИЛА\source\repos\pudov.im.lab8.3\pudov.im.lab8.3\obj\Debug\pudov.im.lab8.3.pdb
